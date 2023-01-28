@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-11T18:10:18 IST" name="Suite" finished-at="2022-11-11T18:10:18 IST" duration-ms="107">
+    <groups>
+    </groups>
+    <test started-at="2022-11-11T18:10:18 IST" name="Test" finished-at="2022-11-11T18:10:18 IST" duration-ms="107">
+      <class name="tpack.DemoTestng">
+        <test-method signature="oneA()[pri:0, instance:tpack.DemoTestng@43195e57]" started-at="2022-11-11T18:10:18 IST" name="oneA" finished-at="2022-11-11T18:10:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneA -->
+        <test-method signature="oneB()[pri:0, instance:tpack.DemoTestng@43195e57]" started-at="2022-11-11T18:10:18 IST" name="oneB" finished-at="2022-11-11T18:10:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneB -->
+        <test-method signature="oneC()[pri:0, instance:tpack.DemoTestng@43195e57]" started-at="2022-11-11T18:10:18 IST" name="oneC" finished-at="2022-11-11T18:10:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneC -->
+        <test-method signature="oneD()[pri:0, instance:tpack.DemoTestng@43195e57]" started-at="2022-11-11T18:10:18 IST" name="oneD" finished-at="2022-11-11T18:10:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneD -->
+      </class> <!-- tpack.DemoTestng -->
+      <class name="rpack.RdemoTestng$DemoTestng">
+        <test-method signature="RoneA()[pri:0, instance:rpack.RdemoTestng$DemoTestng@393671df]" started-at="2022-11-11T18:10:18 IST" name="RoneA" finished-at="2022-11-11T18:10:18 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoneA -->
+        <test-method signature="RoneB()[pri:0, instance:rpack.RdemoTestng$DemoTestng@393671df]" started-at="2022-11-11T18:10:18 IST" name="RoneB" finished-at="2022-11-11T18:10:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoneB -->
+        <test-method signature="RoneC()[pri:0, instance:rpack.RdemoTestng$DemoTestng@393671df]" started-at="2022-11-11T18:10:18 IST" name="RoneC" finished-at="2022-11-11T18:10:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoneC -->
+        <test-method signature="RoneD()[pri:0, instance:rpack.RdemoTestng$DemoTestng@393671df]" started-at="2022-11-11T18:10:18 IST" name="RoneD" finished-at="2022-11-11T18:10:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoneD -->
+      </class> <!-- rpack.RdemoTestng$DemoTestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
